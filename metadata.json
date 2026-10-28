@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlow Anatomy",
+  "description": "Aplicativo de flashcards interativos para memorização e estudo de anatomia humana, osteologia e acidentes ósseos com recordação ativa e marcação visual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
