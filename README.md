@@ -1,0 +1,1 @@
+versão 2 do projeto de estudos em flashcard, na qual o próprio usuário adiciona a imagem e indica a resposta correta. Ele resolve a problemática anterior: a falta de precisão do aplicativo feito no Google AI Studio quanto às marcações exatas do local do osso a ser respondido pelo usuário.
